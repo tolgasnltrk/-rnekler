@@ -21,7 +21,7 @@ namespace asalsayılar
              */
             Console.Write("pozitif tam sayı giriniz: ");
             int sayi = Convert.ToInt32(Console.ReadLine());
-            for (int i = 2; i < sayi; sayi++)
+            for (int i = 2; i < sayi; sayi++)hıu
                 
         }
        
